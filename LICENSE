@@ -1,0 +1,28 @@
+Metis Source License 1.0
+
+Copyright (c) 2026 553574842-sys
+
+You may use, copy and modify the Metis software for personal use and for your
+own or your organization's internal work, including paid client work. You may
+use the work you produce with Metis commercially. You may share unmodified or
+modified standalone copies free of charge if you include this license and
+copyright notice and identify changes you made.
+
+The following uses require prior written permission from the copyright holder:
+
+1. Selling Metis or a modified version, including charging for copies or access
+   to copies as part of a paid bundle.
+2. Incorporating or bundling Metis or its code into a commercial product or
+   service you supply to others. Running Metis as a separate internal tool in
+   support of paid work is permitted.
+3. Operating Metis for others as a paid hosted service, including charging for
+   access indirectly as part of a paid plan.
+
+The license covers Metis code and documentation supplied by the copyright
+holder, including Metis code shipped in the Windows preview package. It grants
+no rights to third-party components or user-provided content. Third-party
+components are governed by their own licenses.
+
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM
+EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR CLAIMS OR
+DAMAGES ARISING FROM THE SOFTWARE OR ITS USE.

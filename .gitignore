@@ -1,0 +1,16 @@
+.env
+.env.local
+.env-minimax-*.tmp
+.venv/
+node_modules/
+frontend/dist/
+data/
+backups/
+runtime/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+test-results/
+playwright-report/
+*.db

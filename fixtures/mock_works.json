@@ -1,0 +1,68 @@
+[
+  {
+    "hashtags": [
+      "RAG"
+    ],
+    "platform": "douyin",
+    "original_url": "https://example.invalid/mock/douyin/work/demo-fixture-0",
+    "body_text": "检索增强生成的第一步是整理资料。分段时保留来源和原文。先检索证据，再生成回答。没有证据时应说明资料不足。",
+    "platform_work_id": "demo-fixture-0",
+    "title": "给知识库建立可核验的引用",
+    "content_type": "video"
+  },
+  {
+    "hashtags": [
+      "编程"
+    ],
+    "platform": "douyin",
+    "original_url": "https://example.invalid/mock/douyin/work/demo-fixture-1",
+    "body_text": "编程时先描述可以验证的结果，再写最小的实现。一次修改一个问题，运行针对性的测试，再逐步扩展。",
+    "platform_work_id": "demo-fixture-1",
+    "title": "用最小实验验证一个想法",
+    "content_type": "image"
+  },
+  {
+    "hashtags": [
+      "商业"
+    ],
+    "platform": "douyin",
+    "original_url": "https://example.invalid/mock/douyin/work/demo-fixture-2",
+    "body_text": "产品需求需要来自具体场景。记录用户的原话，区分行为与猜测。先验证核心任务是否成立，再增加功能。",
+    "platform_work_id": "demo-fixture-2",
+    "title": "用访谈记录校验产品需求",
+    "content_type": "text"
+  },
+  {
+    "hashtags": [
+      "游戏开发"
+    ],
+    "platform": "douyin",
+    "original_url": "https://example.invalid/mock/douyin/work/demo-fixture-3",
+    "body_text": "游戏原型先实现一个完整的反馈循环：输入、状态变化、反馈。通过试玩记录具体问题，逐次改进体验。",
+    "platform_work_id": "demo-fixture-3",
+    "title": "游戏原型的反馈循环",
+    "content_type": "text"
+  },
+  {
+    "hashtags": [
+      "RAG"
+    ],
+    "platform": "douyin",
+    "original_url": "https://example.invalid/mock/douyin/work/demo-fixture-4",
+    "body_text": "知识库应先检查检索是否找到了相关原文。关键词检索帮助定位术语，语义检索补充近义表达。回答中应同时保留作者与出处。",
+    "platform_work_id": "demo-fixture-4",
+    "title": "检索质量需要独立检查",
+    "content_type": "text"
+  },
+  {
+    "hashtags": [
+      "AI"
+    ],
+    "platform": "douyin",
+    "original_url": "https://example.invalid/mock/douyin/work/demo-fixture-5",
+    "body_text": "整理 AI 分析时，来源明确表达的观点与模型推论需要分别标记。置信度用于说明不确定性，不能替代原文证据。",
+    "platform_work_id": "demo-fixture-5",
+    "title": "把事实和推论分开记录",
+    "content_type": "text"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "schema_version": "knowledge_v1",
+  "platform": "douyin",
+  "work_id": "FIXTURE_WORK",
+  "source_url": "https://example.invalid/mock/douyin/work/demo-fixture-0",
+  "title_original": "给知识库建立可核验的引用",
+  "summary_zh": "检索增强生成的第一步是整理资料。分段时保留来源和原文。先检索证据，再生成回答。没有证据时应说明资料不足。",
+  "language_original": "zh",
+  "transcript_segments": [],
+  "ocr_segments": [],
+  "visual_segments": [],
+  "knowledge_items": [
+    {
+      "type": "method",
+      "title": "给知识库建立可核验的引用",
+      "content_zh": "检索增强生成的第一步是整理资料",
+      "content_original": "检索增强生成的第一步是整理资料",
+      "source_segment_refs": [
+        "body:0"
+      ],
+      "confidence": 1.0,
+      "claim_kind": "source_claim"
+    },
+    {
+      "type": "knowledge",
+      "title": "分段时保留来源和原文",
+      "content_zh": "分段时保留来源和原文",
+      "content_original": "分段时保留来源和原文",
+      "source_segment_refs": [
+        "body:0"
+      ],
+      "confidence": 1.0,
+      "claim_kind": "source_claim"
+    },
+    {
+      "type": "knowledge",
+      "title": "先检索证据，再生成回答",
+      "content_zh": "先检索证据，再生成回答",
+      "content_original": "先检索证据，再生成回答",
+      "source_segment_refs": [
+        "body:0"
+      ],
+      "confidence": 1.0,
+      "claim_kind": "source_claim"
+    }
+  ],
+  "creator_thoughts": [],
+  "expression_style": [],
+  "action_steps": [],
+  "cross_creator_candidates": [],
+  "limitations": [
+    "Mock 提取只引用文本片段；未进行真实云端理解、ASR 或 OCR，内容不得用于证明平台采集或模型质量。"
+  ]
+}

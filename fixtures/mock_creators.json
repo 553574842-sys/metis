@@ -1,0 +1,5 @@
+[
+  {"profile_url":"https://example.invalid/mock/douyin/user/demo-lab","display_name":"演示 · 实验笔记","platform":"douyin"},
+  {"profile_url":"https://example.invalid/mock/xiaohongshu/user/demo-build","display_name":"演示 · 构建手册","platform":"xiaohongshu"},
+  {"profile_url":"https://example.invalid/mock/xiaohongshu/user/demo-observe","display_name":"演示 · 产品观察","platform":"xiaohongshu"}
+]

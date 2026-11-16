@@ -33,3 +33,18 @@
 程序把知识和素材保存在解压目录的 `data/`，把本机配置保存在 `.env` 和 `.env.local`。备份或迁移前先退出程序。发布包内只有程序、运行依赖和虚构示例。
 
 随包许可和构建说明见 `python/LICENSE.txt`、`ffmpeg/LICENSE` 和 `ffmpeg/README.txt`。
+
+## 源码和使用条款
+
+Metis 源码公开。你可以免费使用、修改和分享独立版本，也可以把 Metis 当作你或团队的内部工具，用来辅助工作和付费客户项目。转售 Metis、将它集成到对外商业产品或服务，以及提供收费托管，需要事先取得书面授权。完整条款见 [LICENSE](LICENSE)。第三方组件适用各自的许可证。
+
+### 从源码启动
+
+准备 Python 3.12、Node.js、FFmpeg，并将它们加入 PATH。在 Windows PowerShell 中进入仓库根目录，执行：
+
+```powershell
+.\scripts\init.ps1 -Demo
+.\scripts\start.ps1
+```
+
+打开 [本机工作台](http://127.0.0.1:8000)。日常体验可直接使用上面的 Windows 便携包。
