@@ -2,6 +2,8 @@
 
 [简体中文](README.md) · English
 
+[Watch the 40-second product walkthrough (MP4)](https://github.com/553574842-sys/metis/releases/download/v0.1.0-preview/Metis-40.mp4)
+
 **Keep learning from the creators you follow on Douyin and Xiaohongshu, and apply what you learn to your own projects.**
 
 Build a collection organized by creator. Metis analyzes narration and visuals in videos, as well as text and images in posts. It extracts viewpoints, methods, and examples while keeping links to the original work and supporting evidence.
